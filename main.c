@@ -26,4 +26,6 @@ int main() {
     char grade = determine_grade(average);
 
     display_result(average, grade);
+
+    printf("\nDisplayed result.\n");
 }
